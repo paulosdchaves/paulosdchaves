@@ -22,11 +22,7 @@ As a Data Engineer, I enjoy using my skills to help companies with digital trans
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   26 hrs 33 mins  ███████████████████████▓░   95.26 % 
-CSS          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

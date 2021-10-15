@@ -22,7 +22,8 @@ As a Data Engineer, I enjoy using my skills to help companies with digital trans
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   26 mins         ██████████████████████▓░░   90.87 % 
+Python     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 <!--END_SECTION:waka-->
 

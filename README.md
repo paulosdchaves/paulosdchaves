@@ -22,7 +22,7 @@ As a Data Engineer, I enjoy using my skills to help companies with digital trans
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-SQL          3 hrs 17 mins   █████████████████████████   99.96 % 
+SQL          3 hrs 35 mins   █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
 

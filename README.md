@@ -23,7 +23,8 @@ As a Data Engineer, I enjoy using my skills to help companies with digital trans
 <!--START_SECTION:waka-->
 
 ```text
-HCL   4 mins          █████████████████████████   100.00 %
+Terraform   8 mins          █████████████████░░░░░░░░   68.24 %
+HCL         4 mins          ████████░░░░░░░░░░░░░░░░░   31.76 %
 ```
 
 <!--END_SECTION:waka-->

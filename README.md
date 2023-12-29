@@ -23,9 +23,7 @@ As a Data Engineer, I enjoy using my skills to help companies with digital trans
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 52 mins    █████████████████████▓░░░   86.56 %
-Markdown    14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Python      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Terraform   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

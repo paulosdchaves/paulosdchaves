@@ -23,11 +23,11 @@ As a Data Engineer, I enjoy using my skills to help companies with digital trans
 <!--START_SECTION:waka-->
 
 ```txt
-SQL         4 hrs 28 mins   █████████████████████░░░░   83.59 %
-Python      27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-JSON        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Makefile    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Terraform   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+SQL         3 hrs 17 mins   ████████████████████▓░░░░   82.69 %
+Python      32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Terraform   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JSON        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+YAML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
